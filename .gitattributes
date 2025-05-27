@@ -1,1 +1,3 @@
-*.mips linguagem=MIPS Assembly
+**.mips linguagem=MIPS Assembly
+*.asm linguagem=MIPS Assembly
+*.s linguagem=MIPS Assembly
