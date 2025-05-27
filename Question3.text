@@ -1,0 +1,5 @@
+a) Uma arquitetura RISC possui um conjunto de instruções menor e mais simples, o que possibilita uma execução mais rápida do programa. 
+Enquanto a CISC possui um conjunto de instruções mais complexo, capaz de executar várias operações em uma única linha de instrução, mas com uma execução mais lenta.
+
+b) A arquitetura MIPS foi criada para ser uma arquitetura RISC de refência,
+tendo como principais aplicações a criação de sistemas embarcados e microcontroladores, além de práticas educacionais relacionadas ao hardware. 
