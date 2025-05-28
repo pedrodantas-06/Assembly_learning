@@ -1,0 +1,15 @@
+a) A arquitetura refere-se aos atributos do sistema que são visíveis para o programador,
+como: conjunto de registradores, tipos de dados, modo de endereçamento, formato e repertório de instruções.
+Já a organização se refere às unidades operacionais físicas implementadas da arquitetura, c
+como: tecnologia da memória, interfaces, implementação das instruções e interconexões.
+
+b) Os registradores em geral possuem um acesso mais rápido que a memória,
+enquanto um registrador é acessado em 1 ciclo de clock, a memória é acessada em dezenas ciclos de clock.
+Além disso, os registradores são limitados (32 registradores no MIPS), enquanto a memória possui um espaço muito maior, 
+os registradores são endereçados diretamente nas instruções e fazem parte da CPU, enquanto a memória é acessada via load e store
+e fica localizada fora da CPU.
+
+c) No Big Endian, o byte mais significativo é armazenado no endereço mais baixo, já no Little Endian, o byte menos significativo
+é armazenado no endereço mais baixo. O Big Endian é muito utilizado em protocolos de rede enquanto o Little Endian é muito utilizado
+em várias arquiteturas como x86 e ARM.
+
